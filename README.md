@@ -49,6 +49,33 @@ So... follow these steps
 •Now Magisk is Fully Working & your device is ROOTED, now uninstall Apatch.
 ```
 
+<div align="center">
+<a href="https://github.com/bmax121/APatch/releases/latest"><img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/bmax121/APatch/main/app/src/main/ic_launcher-playstore.png&mask=circle" style="width: 128px;" alt="logo"></a>
+
+<h1 align="center">APatch</h1>
+
+[![Latest Release](https://img.shields.io/github/v/release/bmax121/APatch?label=Release&logo=github)](https://github.com/bmax121/APatch/releases/latest)
+[![Nightly Release](https://img.shields.io/badge/Nightly%20release-gray?logo=hackthebox&logoColor=fff)](https://nightly.link/bmax121/APatch/workflows/build/main/APatch)
+[![Weblate](https://img.shields.io/badge/Localization-Weblate-teal?logo=weblate)](https://hosted.weblate.org/engage/APatch)
+[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/APatchGroup)
+[![GitHub License](https://img.shields.io/github/license/bmax121/APatch?logo=gnu)](/LICENSE)
+
+</div>
+
+The patching of Android kernel and Android system.
+
+- A new kernel-based root solution for Android devices.
+- APM: Support for modules similar to Magisk.
+- KPM: Support for modules that allow you to inject any code into the kernel (Provides kernel function `inline-hook` and `syscall-table-hook`).
+- APatch relies on [KernelPatch](https://github.com/bmax121/KernelPatch/).
+- The APatch UI and the APModule source code have been derived and modified from [KernelSU](https://github.com/tiann/KernelSU).
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/me.bmax.apatch/)
+
+Or download the latest APK from the [Releases Section](https://github.com/bmax121/APatch/releases/latest).
+
 ![Image](https://github.com/user-attachments/assets/787bdad4-d8a4-449d-82fb-48962b20cbd1)
 
 ![Image](https://github.com/user-attachments/assets/44e6675f-13b3-4df5-b47f-79b04ca19ba0)
