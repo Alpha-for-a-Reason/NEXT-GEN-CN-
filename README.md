@@ -92,6 +92,7 @@ Some highlight features:
 - **Zygisk**: Run code in every Android applications' processes
 
 ## Downloads
+Don't use the Pre-release version, Use the Stable version.
 
 [Github](https://github.com/topjohnwu/Magisk/releases) is the only source where you can get official Magisk information and downloads.
 
