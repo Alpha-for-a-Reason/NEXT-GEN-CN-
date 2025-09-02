@@ -80,7 +80,6 @@ Or download the latest APK from the [Releases Section](https://github.com/bmax12
 
 [![Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=totalString&url=https%3A%2F%2Fraw.githubusercontent.com%2Ftopjohnwu%2Fmagisk-files%2Fcount%2Fcount.json&cacheSeconds=1800)](https://github.com/topjohnwu/Magisk/releases)
 
-#### This is not an officially supported Google product
 
 ## Introduction
 
@@ -95,8 +94,6 @@ Some highlight features:
 ## Downloads
 
 [Github](https://github.com/topjohnwu/Magisk/releases) is the only source where you can get official Magisk information and downloads.
-
-## Useful Links
 
 - [Installation Instruction](https://topjohnwu.github.io/Magisk/install.html)
 - [Building and Development](https://topjohnwu.github.io/Magisk/build.html)
