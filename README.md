@@ -10,6 +10,7 @@ Released: 03/09/2025
 # CHANGELOGS ~ 🥂
 These are Basic Features, Scroll down to see the Advanced Anonymous Features 🥶
 ```
+•LATEST SECURITY PATCH - AUGUST 29, 2025
 •NEW ABOUT PHONE
 •UNLIMITED STORAGE IN GOOGLE PHOTOS
 •PROS~ (24030PN60G) XIAOMI 14 ULTRA - FOR 120FPS GAMING 🎮
