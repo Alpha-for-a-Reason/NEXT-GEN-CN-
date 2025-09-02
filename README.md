@@ -19,7 +19,10 @@ Released: 03/09/2025
 •ADVANCE TEXTURE
 
 
-By 𝙰 𝙻 𝙿 𝙷 𝙰,  𝘼 𝙉 𝙆 𝙄 𝙏 𝘼  &  ᴍ ᴏ ʜ ᴀ ᴍ ᴍ ᴀ ᴅ
+# By:  # 𝙰 𝙻 𝙿 𝙷 𝙰,  # 𝘼 𝙉 𝙆 𝙄 𝙏 𝘼  &  # ᴍ ᴏ ʜ ᴀ ᴍ ᴍ ᴀ ᴅ
+![Image](https://github.com/user-attachments/assets/2b213476-a2ba-4509-89f3-aade2c680d2e)
+
+![Image](https://github.com/user-attachments/assets/787bdad4-d8a4-449d-82fb-48962b20cbd1)
 
 ![Image](https://github.com/user-attachments/assets/44e6675f-13b3-4df5-b47f-79b04ca19ba0)
 ![Image](https://github.com/user-attachments/assets/b86873f8-e4be-4c33-bc8a-657376a8906c)
