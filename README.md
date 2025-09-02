@@ -38,7 +38,7 @@ These are Basic Features, Scroll down to see the Advanced Anonymous Features �
 
 # 💀 Now, It's Time to Break the Limitations (Beyond Imagination) 
 ```
-☠️ First of all we have to ROOT the device-
+☠️ First of all we have to ROOT the device- Redmi Note 13 Pro+
 So... follow these steps
 •First you need to Patch boot.img using Apatch,
 •Now put you'r device into fastboot mode & connect via usb cable.
