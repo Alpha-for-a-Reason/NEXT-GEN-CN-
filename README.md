@@ -76,6 +76,33 @@ The patching of Android kernel and Android system.
 
 Or download the latest APK from the [Releases Section](https://github.com/bmax121/APatch/releases/latest).
 
+![](docs/images/logo.png)
+
+[![Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=totalString&url=https%3A%2F%2Fraw.githubusercontent.com%2Ftopjohnwu%2Fmagisk-files%2Fcount%2Fcount.json&cacheSeconds=1800)](https://github.com/topjohnwu/Magisk/releases)
+
+#### This is not an officially supported Google product
+
+## Introduction
+
+Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 6.0.<br>
+Some highlight features:
+
+- **MagiskSU**: Provide root access for applications
+- **Magisk Modules**: Modify read-only partitions by installing modules
+- **MagiskBoot**: The most complete tool for unpacking and repacking Android boot images
+- **Zygisk**: Run code in every Android applications' processes
+
+## Downloads
+
+[Github](https://github.com/topjohnwu/Magisk/releases) is the only source where you can get official Magisk information and downloads.
+
+## Useful Links
+
+- [Installation Instruction](https://topjohnwu.github.io/Magisk/install.html)
+- [Building and Development](https://topjohnwu.github.io/Magisk/build.html)
+- [Magisk Documentation](https://topjohnwu.github.io/Magisk/)
+- [Zygisk module sample](https://github.com/topjohnwu/zygisk-module-sample)
+
 ![Image](https://github.com/user-attachments/assets/787bdad4-d8a4-449d-82fb-48962b20cbd1)
 
 ![Image](https://github.com/user-attachments/assets/44e6675f-13b3-4df5-b47f-79b04ca19ba0)
