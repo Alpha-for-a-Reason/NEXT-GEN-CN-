@@ -7,7 +7,8 @@ Based on : HYPEROS 1
 Android 14
 Released: 03/09/2025
 
-# CHANGELOGS ~ Basic Features
+# CHANGELOGS ~ 🥂
+These are Basic Features, Scroll down to see the Advanced Anonymous Features 🥶
 ```
 •NEW ABOUT PHONE
 •UNLIMITED STORAGE IN GOOGLE PHOTOS
@@ -35,7 +36,17 @@ Released: 03/09/2025
 ![Image](https://github.com/user-attachments/assets/2b213476-a2ba-4509-89f3-aade2c680d2e)
 
 # 💀 Now, It's Time to Break the Limitations (Beyond Imagination) 
-☠️Kernel is Patched by Nethunter. So, 🔥
+```
+☠️ First of all we have to ROOT the device-
+So... follow these steps
+•First you need to Patch boot.img using Apatch,
+•Now put you'r device into fastboot mode & connect via usb cable.
+•Flash boot.img both slot, bcz zircon have A/B partition.
+•So, type these cmd= fastboot flash boot_a & fastboot flash boot_b & after that type cmd= fastboot reboot.
+•After that install Magisk and give root permission via Apatch. 
+•Now open Magisk and inside Magisk install Magisk using direct install.
+•Now Magisk is Fully Working & your device is ROOTED, now uninstall Apatch.
+```
 
 ![Image](https://github.com/user-attachments/assets/787bdad4-d8a4-449d-82fb-48962b20cbd1)
 
