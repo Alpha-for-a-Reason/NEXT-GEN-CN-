@@ -76,7 +76,7 @@ The patching of Android kernel and Android system.
 
 Or download the latest APK from the [Releases Section](https://github.com/bmax121/APatch/releases/latest).
 
-![](docs/images/logo.png)
+<img width="1500" height="599" alt="Image" src="https://github.com/user-attachments/assets/c8fa98a0-4990-40a5-9f18-9a00b5101297" />
 
 [![Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=totalString&url=https%3A%2F%2Fraw.githubusercontent.com%2Ftopjohnwu%2Fmagisk-files%2Fcount%2Fcount.json&cacheSeconds=1800)](https://github.com/topjohnwu/Magisk/releases)
 
