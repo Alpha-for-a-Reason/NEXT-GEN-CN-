@@ -1,2 +1,1 @@
-# NEXT-GEN-CN-
-THE NEXT GEN OS
+
