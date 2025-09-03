@@ -38,9 +38,9 @@ These are Basic Features, Scroll down to see the Advanced Anonymous Features �
 ![Image](https://github.com/user-attachments/assets/2b213476-a2ba-4509-89f3-aade2c680d2e)
 ✨ Special thanks to our Community Developers- 𝙰 𝙽 𝙺 𝙸 𝚃 𝙰  &  𝙼 𝙾 𝙷 𝙰 𝙼 𝙼 𝙰 𝙳  ✨
 
-# 💀 Now, It's Time to Break the Limitations (Beyond Imagination) 
+#  Now, It's Time to Break the Limitations (Beyond Imagination) 🥶
 ```
-☠️ First of all you have to ROOT the device- Redmi Note 13 Pro+ 5G [zircon]
+☠ First of all you have to ROOT the device- Redmi Note 13 Pro+ 5G [zircon]
 So... follow these steps
 •First you need to Patch boot.img using Apatch,
 •Now put you'r device into fastboot mode & connect via usb cable.
@@ -103,6 +103,11 @@ Don't use the Pre-release (Beta) version, Use the Latest (Stable) version.
 - [Magisk Documentation](https://topjohnwu.github.io/Magisk/)
 - [Zygisk module sample](https://github.com/topjohnwu/zygisk-module-sample)
 
+# Lets COOK 💀☠️
+![Image](https://github.com/user-attachments/assets/d5bd0d0b-8156-41c5-8c3d-ab0c0d030233)
+![Image](https://github.com/user-attachments/assets/13748771-5bd6-430e-908a-3c6899e247b5)
+
+#
 ![Image](https://github.com/user-attachments/assets/787bdad4-d8a4-449d-82fb-48962b20cbd1)
 
 ![Image](https://github.com/user-attachments/assets/44e6675f-13b3-4df5-b47f-79b04ca19ba0)
