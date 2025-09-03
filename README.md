@@ -128,6 +128,7 @@ kali-tweaks
 - now select metapackages & install kali linux everything
 ```
 ## Some of the prominent tools and their categories include:
+```
 - **Information Gathering**:
 Tools for reconnaissance and gathering intelligence about target systems and networks. Examples include Nmap, Maltego, theHarvester, and Recon-ng.
 - **Vulnerability Analysis**:
@@ -148,6 +149,7 @@ Tools for maintaining access, escalating privileges, and moving laterally within
 Tools for digital forensics investigations and data recovery. Examples include Autopsy and Foremost.
 - **Social Engineering**:
 Tools to assist with social engineering attacks, such as the Social Engineering Toolkit (SET).
+```
 ## Android Visuals
 ![Image](https://github.com/user-attachments/assets/787bdad4-d8a4-449d-82fb-48962b20cbd1)
 
