@@ -105,7 +105,8 @@ Don't use the Pre-release (Beta) version, Use the Latest (Stable) version.
 
 # Anonymous Features 💀💀
 ## Checkmate 1
-Nethunter + W~Srk + What$app = You got a notification from what$app about the recent what$app call
+Nethunter + W~Srk + What$app = You got a notification from what$app about the recent what$app call (D€vice location + Platform data)
+![Image](https://github.com/user-attachments/assets/164a9ff7-3d2a-492a-b90b-eb9de0c41156)
 
 # Lets COOK 💀☠️
 ![Image](https://github.com/user-attachments/assets/d5bd0d0b-8156-41c5-8c3d-ab0c0d030233)
