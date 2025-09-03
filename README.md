@@ -113,6 +113,7 @@ Don't use the Pre-release (Beta) version, Use the Latest (Stable) version.
 ![Image](https://github.com/user-attachments/assets/d5bd0d0b-8156-41c5-8c3d-ab0c0d030233)
 ![Image](https://github.com/user-attachments/assets/13748771-5bd6-430e-908a-3c6899e247b5)
 
+- Download [NetHunter ARM64 (Full)](https://kali.download/nethunter-images/kali-2025.2/kali-nethunter-2025.2-generic-arm64-full.zip)
 ## Android Visuals
 ![Image](https://github.com/user-attachments/assets/787bdad4-d8a4-449d-82fb-48962b20cbd1)
 
