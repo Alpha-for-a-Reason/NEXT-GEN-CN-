@@ -104,8 +104,8 @@ Don't use the Pre-release (Beta) version, Use the Latest (Stable) version.
 - [Zygisk module sample](https://github.com/topjohnwu/zygisk-module-sample)
 
 # Anonymous Features 💀💀
-## Checkmate 1
-Nethunter + W~Srk + What$app = You got a notification from what$app about the recent what$app call (D€vice location + Platform data)
+## Checkmate 
+- Nethunter + W~Srk + What$app = You got a notification from what$app about the recent what$app call (D€vice location + Platform data), Doesn't matter the call is incoming or outgoing.
 ![Image](https://github.com/user-attachments/assets/164a9ff7-3d2a-492a-b90b-eb9de0c41156)
 
 # Lets COOK 💀☠️
