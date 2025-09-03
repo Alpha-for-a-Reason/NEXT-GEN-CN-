@@ -111,8 +111,8 @@ Don't use the Pre-release (Beta) version, Use the Latest (Stable) version.
 > [!WARNING]
 > Some B!itches say it's ha¢king 😏, it's not ha¢king it's called Social Engineering.
 
-# Lets COOK 💀☠️
-## Nethunter Inside Android 
+# Lets COOK 💀☠️ Nethunter Inside Android
+## Designed for Digital Forensics and Penetration Testing.
 ![Image](https://github.com/user-attachments/assets/d5bd0d0b-8156-41c5-8c3d-ab0c0d030233)
 ![Image](https://github.com/user-attachments/assets/13748771-5bd6-430e-908a-3c6899e247b5)
 
