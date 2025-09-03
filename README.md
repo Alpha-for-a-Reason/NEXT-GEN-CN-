@@ -109,13 +109,14 @@ Don't use the Pre-release (Beta) version, Use the Latest (Stable) version.
 ## Checkmate 
 - Nethunter + W~Srk + What$app Hook = You got a notification from what$app about the recent what$app call (D€vice location + Platform data), Doesn't matter the call is incoming or outgoing. [Track](https://github.com/Dark-Legends/I-killer)
 ![Image](https://github.com/user-attachments/assets/164a9ff7-3d2a-492a-b90b-eb9de0c41156)
+There are over 1000+ tools, I don't have time to explain one by one.
 
 > [!WARNING]
 > Some B!itches say it's ha¢king 😏, it's not ha¢king it's called Social Engineering.
 
 # Lets COOK 💀☠️ Nethunter Inside Android
 ## Designed for Digital Forensics and Penetration Testing.
-![Image](https://github.com/user-attachments/assets/d5bd0d0b-8156-41c5-8c3d-ab0c0d030233)
+![Image](https://github.com/user-attadchments/assets/d5bd0d0b-8156-41c5-8c3d-ab0c0d030233)
 ![Image](https://github.com/user-attachments/assets/13748771-5bd6-430e-908a-3c6899e247b5)
 
 - Download [NetHunter ARM64 (Full)](https://kali.download/nethunter-images/kali-2025.2/kali-nethunter-2025.2-generic-arm64-full.zip)
