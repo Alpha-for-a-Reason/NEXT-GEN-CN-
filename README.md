@@ -116,6 +116,8 @@ There are over 1000+ tools, I don't have time to explain one by one.
 
 # Lets COOK 💀☠️ Nethunter Inside Android
 ## Designed for Digital Forensics and Penetration Testing.
+![Image](https://github.com/user-attachments/assets/8543bf5e-d27f-4991-ad82-3327561692a0)
+![Image](https://github.com/user-attachments/assets/e6d2fefa-74da-40c5-93fb-b50f6feb7ae5)
 
 - Download [NetHunter ARM64 (Full)](https://kali.download/nethunter-images/kali-2025.2/kali-nethunter-2025.2-generic-arm64-full.zip)
 - Flash the zip file via Magisk 
