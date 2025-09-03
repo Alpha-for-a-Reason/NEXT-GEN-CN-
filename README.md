@@ -109,7 +109,7 @@ Don't use the Pre-release (Beta) version, Use the Latest (Stable) version.
 ![Image](https://github.com/user-attachments/assets/164a9ff7-3d2a-492a-b90b-eb9de0c41156)
 
 > [!WARNING]
-> Some B!itches say it's ha¢king 😏, it's not ha¢king it's called Rev€rse Engineering.
+> Some B!itches say it's ha¢king 😏, it's not ha¢king it's called Social Engineering.
 
 # Lets COOK 💀☠️
 ## Nethunter Inside Android 
