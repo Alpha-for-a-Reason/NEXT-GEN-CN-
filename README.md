@@ -133,3 +133,6 @@ Don't use the Pre-release (Beta) version, Use the Latest (Stable) version.
 ![Image](https://github.com/user-attachments/assets/25f9fd17-bb63-4a07-99b6-a0046e35ab64)
 ![Image](https://github.com/user-attachments/assets/ef220f28-d729-4d50-91d5-6493fe53c69c)
 ![Image](https://github.com/user-attachments/assets/10667a62-513e-4fe2-a47c-e7a9390025cd)
+
+# Disclaimer
+Tt only for Ethical hackers and pentesters Don't use for unethical hacking and this OS/tool and this repository not responsible for that any illegal activity  .
