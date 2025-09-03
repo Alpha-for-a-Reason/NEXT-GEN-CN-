@@ -114,6 +114,11 @@ Don't use the Pre-release (Beta) version, Use the Latest (Stable) version.
 ![Image](https://github.com/user-attachments/assets/13748771-5bd6-430e-908a-3c6899e247b5)
 
 - Download [NetHunter ARM64 (Full)](https://kali.download/nethunter-images/kali-2025.2/kali-nethunter-2025.2-generic-arm64-full.zip)
+- Flash the zip file via Magisk 
+- Open Nethunter & type these commands
+```
+
+``` 
 ## Android Visuals
 ![Image](https://github.com/user-attachments/assets/787bdad4-d8a4-449d-82fb-48962b20cbd1)
 
