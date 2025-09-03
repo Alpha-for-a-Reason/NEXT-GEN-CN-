@@ -108,6 +108,9 @@ Don't use the Pre-release (Beta) version, Use the Latest (Stable) version.
 - Nethunter + W~Srk + What$app Hook = You got a notification from what$app about the recent what$app call (D€vice location + Platform data), Doesn't matter the call is incoming or outgoing. [Track](https://github.com/Dark-Legends/I-killer)
 ![Image](https://github.com/user-attachments/assets/164a9ff7-3d2a-492a-b90b-eb9de0c41156)
 
+> [!WARNING]
+> Some B!itches say it's ha¢king 😏, it's not ha¢king it's called Rev€rse Engineering
+
 # Lets COOK 💀☠️
 ## Nethunter Inside Android 
 ![Image](https://github.com/user-attachments/assets/d5bd0d0b-8156-41c5-8c3d-ab0c0d030233)
