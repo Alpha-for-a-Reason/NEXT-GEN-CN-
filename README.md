@@ -7,6 +7,8 @@ Based on : HYPEROS 1
 Android 14
 Released: 03/09/2025
 
+- Download [OS-x-Nethunter](https://pixeldrain.com/u/Xo8vptqe)
+
 # CHANGELOGS ~ 🥂
 These are Basic Features, Scroll down to see the Advanced Anonymous Features 🥶
 ```
