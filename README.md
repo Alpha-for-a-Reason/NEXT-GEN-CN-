@@ -103,6 +103,8 @@ Don't use the Pre-release (Beta) version, Use the Latest (Stable) version.
 - [Magisk Documentation](https://topjohnwu.github.io/Magisk/)
 - [Zygisk module sample](https://github.com/topjohnwu/zygisk-module-sample)
 
+# Anonymous Features 👻
+
 # Lets COOK 💀☠️
 ![Image](https://github.com/user-attachments/assets/d5bd0d0b-8156-41c5-8c3d-ab0c0d030233)
 ![Image](https://github.com/user-attachments/assets/13748771-5bd6-430e-908a-3c6899e247b5)
