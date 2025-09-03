@@ -103,7 +103,9 @@ Don't use the Pre-release (Beta) version, Use the Latest (Stable) version.
 - [Magisk Documentation](https://topjohnwu.github.io/Magisk/)
 - [Zygisk module sample](https://github.com/topjohnwu/zygisk-module-sample)
 
-# Anonymous Features 👻
+# Anonymous Features 💀💀
+## Checkmate 1
+Nethunter + W~Srk + What$app = You got a notification from what$app about the recent what$app call
 
 # Lets COOK 💀☠️
 ![Image](https://github.com/user-attachments/assets/d5bd0d0b-8156-41c5-8c3d-ab0c0d030233)
