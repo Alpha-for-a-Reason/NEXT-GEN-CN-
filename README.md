@@ -34,7 +34,7 @@ These are Basic Features, Scroll down to see the Advanced Anonymous Features �
 ```
 
 
-# 💻 By:   𝙰 𝙻 𝙿 𝙷 𝙰,   𝘼 𝙉 𝙆 𝙄 𝙏 𝘼  &  ᴍ ᴏ ʜ ᴀ ᴍ ᴍ ᴀ ᴅ
+# 💻 Developers:   𝙰 𝙻 𝙿 𝙷 𝙰,   𝘼 𝙉 𝙆 𝙄 𝙏 𝘼  &  ᴍ ᴏ ʜ ᴀ ᴍ ᴍ ᴀ ᴅ
 ![Image](https://github.com/user-attachments/assets/2b213476-a2ba-4509-89f3-aade2c680d2e)
 
 # 💀 Now, It's Time to Break the Limitations (Beyond Imagination) 
