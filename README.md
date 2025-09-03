@@ -117,7 +117,12 @@ Don't use the Pre-release (Beta) version, Use the Latest (Stable) version.
 - Flash the zip file via Magisk 
 - Open Nethunter & type these commands
 ```
-
+sudo su
+sudo apt update
+sudo apt upgrade
+sudo apt install kali-tweaks
+kali-tweaks
+- now select metapackages & install kali linux everything
 ``` 
 ## Android Visuals
 ![Image](https://github.com/user-attachments/assets/787bdad4-d8a4-449d-82fb-48962b20cbd1)
