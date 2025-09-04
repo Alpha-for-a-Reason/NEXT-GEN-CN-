@@ -272,3 +272,9 @@ If you are granted permission to use this repository or its contents, you agree 
 ⚡ Always hack **ethically**.  
 ⚡ Always have **permission**.  
 ⚡ Always stay **legal**.
+
+
+## 📬 Contact
+
+<a href="mailto:alphauchiha480@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://instagram.com/alpha_for_a_reason_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
