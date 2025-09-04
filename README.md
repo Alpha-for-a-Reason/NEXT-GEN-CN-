@@ -35,11 +35,6 @@ These are Basic Features, Scroll down to see the Advanced Anonymous Features �
 •(EACH & EVERYTHINGS ARE CUSTOMIZABLE)
 ```
 
-
-# 💻 Developers:   𝙰 𝙻 𝙿 𝙷 𝙰,   𝘼 𝙉 𝙆 𝙄 𝙏 𝘼  &  ᴍ ᴏ ʜ ᴀ ᴍ ᴍ ᴀ ᴅ
-![Image](https://github.com/user-attachments/assets/2b213476-a2ba-4509-89f3-aade2c680d2e)
-✨ Special thanks to our Community Developers- 𝙰 𝙽 𝙺 𝙸 𝚃 𝙰  &  𝙼 𝙾 𝙷 𝙰 𝙼 𝙼 𝙰 𝙳  ✨
-
 #  Now, It's Time to Break the Limitations (Beyond Imagination) 🥶
 ```
 ☠ First of all you have to ROOT the device- Redmi Note 13 Pro+ 5G [zircon]
@@ -174,6 +169,12 @@ Tools to assist with social engineering attacks, such as the Social Engineering 
 ![Image](https://github.com/user-attachments/assets/25f9fd17-bb63-4a07-99b6-a0046e35ab64)
 ![Image](https://github.com/user-attachments/assets/ef220f28-d729-4d50-91d5-6493fe53c69c)
 ![Image](https://github.com/user-attachments/assets/10667a62-513e-4fe2-a47c-e7a9390025cd)
+
+
+# 💻 Developers:   𝙰 𝙻 𝙿 𝙷 𝙰,   𝘼 𝙉 𝙆 𝙄 𝙏 𝘼  &  ᴍ ᴏ ʜ ᴀ ᴍ ᴍ ᴀ ᴅ
+![Image](https://github.com/user-attachments/assets/2b213476-a2ba-4509-89f3-aade2c680d2e)
+> ✨ Special thanks to our Community Developers- 𝙰 𝙽 𝙺 𝙸 𝚃 𝙰  &  𝙼 𝙾 𝙷 𝙰 𝙼 𝙼 𝙰 𝙳  ✨
+
 
 > [!WARNING]
 > This only for Ethical hackers and pentesters Don't use for unethical hacking and this OS/tool and this repository not responsible for that any illegal activity  .
