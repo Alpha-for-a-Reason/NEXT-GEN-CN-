@@ -158,6 +158,18 @@ Tools for digital forensics investigations and data recovery. Examples include A
 Tools to assist with social engineering attacks, such as the Social Engineering Toolkit (SET).
 
 ## Android Visuals
+![Image](https://github.com/user-attachments/assets/77dbdc33-1562-49c6-a3ba-a7aabc032b68)
 
+![Image](https://github.com/user-attachments/assets/f944ca5e-6b67-4996-924d-8ac50b172497)
+
+![Image](https://github.com/user-attachments/assets/3857ff4a-6240-40f6-b643-125d6538a56d)
+
+![Image](https://github.com/user-attachments/assets/e3122476-68e8-458e-81aa-03eb0b166ba7)
+
+![Image](https://github.com/user-attachments/assets/7f48f292-ce34-409f-9197-5cd886defb85)
+
+![Image](https://github.com/user-attachments/assets/df92cc00-446f-46ad-a73e-52b20a641086)
+
+![Image](https://github.com/user-attachments/assets/243c44a9-b433-4e2f-adb6-5b8c54318f9c)
 
 
