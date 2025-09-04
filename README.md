@@ -114,7 +114,7 @@ Don't use the Pre-release (Beta) version, Use the Latest (Stable) version.
 - Now use arp sp**f att@¢k & boom 🔥
 ![Image](https://github.com/user-attachments/assets/164a9ff7-3d2a-492a-b90b-eb9de0c41156)
 Due to g!thu3 guidelines i don't explain about more tool 😒, 
-There are over 1000+ tools, I don't have time to explain one by one.
+There are 600–650 unique packages/tools, I don't have time to explain one by one.
 
 > Now Some B!itches will say it's ha¢king 😏, it's not ha¢king B!t¢h it's called Social/Reverse Engineering.
 
