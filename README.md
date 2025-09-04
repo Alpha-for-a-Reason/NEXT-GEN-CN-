@@ -105,14 +105,15 @@ Don't use the Pre-release (Beta) version, Use the Latest (Stable) version.
 - [Magisk Documentation](https://topjohnwu.github.io/Magisk/)
 - [Zygisk module sample](https://github.com/topjohnwu/zygisk-module-sample)
 
-# Anonymous Features 💀💀
+# Anonymous USE/Features 💀💀
 ## Checkmate 
 - Nethunter + W~Srk + What$app Hook = You got a notification from what$app about the recent what$app call (D€vice location + Platform data), Doesn't matter the call is incoming or outgoing. [Track](https://github.com/Dark-Legends/I-killer)
+- Now use arp sp**f att@¢k & boom 🔥
 ![Image](https://github.com/user-attachments/assets/164a9ff7-3d2a-492a-b90b-eb9de0c41156)
+Due to g!thu3 guidelines i don't explain about more tool 😒, 
 There are over 1000+ tools, I don't have time to explain one by one.
 
-> [!WARNING]
-> Some B!itches say it's ha¢king 😏, it's not ha¢king it's called Social Engineering.
+> Now Some B!itches will say it's ha¢king 😏, it's not ha¢king Bti¢h it's called Social/Reverse Engineering.
 
 # Lets COOK 💀☠️ Nethunter Inside Android
 ## Designed for Digital Forensics and Penetration Testing.
@@ -129,6 +130,7 @@ sudo apt upgrade
 sudo apt install kali-tweaks
 kali-tweaks
 - now select metapackages & install kali linux everything
+- The metapackages is around 34GB, you need high speed internet connection, So, grab a 🍺
 ```
 ## Some of the prominent tools and their categories include:
 - **Information Gathering**:
@@ -173,5 +175,5 @@ Tools to assist with social engineering attacks, such as the Social Engineering 
 ![Image](https://github.com/user-attachments/assets/ef220f28-d729-4d50-91d5-6493fe53c69c)
 ![Image](https://github.com/user-attachments/assets/10667a62-513e-4fe2-a47c-e7a9390025cd)
 
-# Disclaimer
-This only for Ethical hackers and pentesters Don't use for unethical hacking and this OS/tool and this repository not responsible for that any illegal activity  .
+> [!WARNING]
+> This only for Ethical hackers and pentesters Don't use for unethical hacking and this OS/tool and this repository not responsible for that any illegal activity  .
