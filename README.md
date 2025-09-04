@@ -13,7 +13,7 @@
 - CN NEXT GEN
 - Based on : HYPEROS 1
 - Android 14
-- Released: 03/09/2025
+- Released: 04/09/2025
 
 - Download [OS-x-Nethunter](https://pixeldrain.com/u/Xo8vptqe)
 
