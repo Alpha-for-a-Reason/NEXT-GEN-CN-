@@ -234,3 +234,27 @@ Tools to assist with social engineering attacks, such as the Social Engineering 
 ![Image](https://github.com/user-attachments/assets/243c44a9-b433-4e2f-adb6-5b8c54318f9c)
 
 
+# ⚠️ Ethical Use Only
+
+[![Ethical Use Only](https://img.shields.io/badge/⚠️-Ethical%20Use%20Only-red?style=for-the-badge&logo=github)](#)
+
+---
+
+> ⚠️ **Legal Disclaimer**
+>
+> This repository and the tools referenced here are provided **strictly for educational and ethical purposes only**.  
+> They are intended to be used by:
+> - Security researchers  
+> - Penetration testers  
+> - Students learning cybersecurity  
+> - System administrators testing their own systems  
+>
+> **Do not use these tools for any malicious or unauthorized activity.**  
+> Unauthorized access to networks, systems, or data is **illegal** and may result in **criminal charges**.  
+>
+> By using this repository, you agree that:
+> - You are responsible for your own actions.  
+> - The repository owner(s) and contributors are **not liable** for any misuse of the tools.  
+> - You will comply with all applicable **laws and regulations** in your jurisdiction.  
+>
+> ✅ Always hack **ethically**. Use these tools only on systems you own or have explicit permission to test.
