@@ -245,9 +245,9 @@ Tools to assist with social engineering attacks, such as the Social Engineering 
 Copyright (c) 2025 [XDA- 𝙰 𝙻 𝙿 𝙷 𝙰  Community]
 
 This repository and its contents are **proprietary**.  
-Unauthorized copying, modification, distribution, or use of this,  
+Unauthorized copying, modification, distribution,  
 via any medium, is strictly prohibited unless explicit written permission  
-is granted by the author. (Only Community member can use this)
+is granted by the author. (Only Community members have permission to use this)
 
 ---
 
