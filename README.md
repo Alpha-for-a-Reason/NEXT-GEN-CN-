@@ -174,4 +174,4 @@ Tools to assist with social engineering attacks, such as the Social Engineering 
 ![Image](https://github.com/user-attachments/assets/10667a62-513e-4fe2-a47c-e7a9390025cd)
 
 # Disclaimer
-Tt only for Ethical hackers and pentesters Don't use for unethical hacking and this OS/tool and this repository not responsible for that any illegal activity  .
+This only for Ethical hackers and pentesters Don't use for unethical hacking and this OS/tool and this repository not responsible for that any illegal activity  .
