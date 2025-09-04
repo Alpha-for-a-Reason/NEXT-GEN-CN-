@@ -151,8 +151,7 @@ Tools to assist with social engineering attacks, such as the Social Engineering 
 
 ## Android Visuals
 ![Image](https://github.com/user-attachments/assets/787bdad4-d8a4-449d-82fb-48962b20cbd1)
-
-![Image](https://github.com/user-attachments/assets/44e6675f-13b3-4df5-b47f-79b04ca19ba0)
+![Image](https://github.com/user-attachments/assets/349a4c8f-707b-474c-94ba-68178ead8c68)
 ![Image](https://github.com/user-attachments/assets/b86873f8-e4be-4c33-bc8a-657376a8906c)
 ![Image](https://github.com/user-attachments/assets/98133d90-3741-48af-a77b-8a7e1391f252)
 ![Image](https://github.com/user-attachments/assets/54c0ea8f-5369-402b-ab89-94c2100ecc4d)
