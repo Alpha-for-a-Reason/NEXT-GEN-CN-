@@ -116,7 +116,7 @@ Don't use the Pre-release (Beta) version, Use the Latest (Stable) version.
 Due to g!thu3 guidelines i don't explain about more tool 😒, 
 There are over 1000+ tools, I don't have time to explain one by one.
 
-> Now Some B!itches will say it's ha¢king 😏, it's not ha¢king Bti¢h it's called Social/Reverse Engineering.
+> Now Some B!itches will say it's ha¢king 😏, it's not ha¢king B!t¢h it's called Social/Reverse Engineering.
 
 # Lets COOK 💀☠️ Nethunter Inside Android
 ## Designed for Digital Forensics and Penetration Testing.
