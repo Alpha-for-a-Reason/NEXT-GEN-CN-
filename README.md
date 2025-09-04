@@ -2,10 +2,10 @@
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/afadde59-acc1-4ec2-9816-d4a7703461e7" />
 ●ZIRCON ●HYPEROS1 ●MODDED ●NEXTGEN
 
-CN NEXT GEN
-Based on : HYPEROS 1
-Android 14
-Released: 03/09/2025
+- CN NEXT GEN
+- Based on : HYPEROS 1
+- Android 14
+- Released: 03/09/2025
 
 - Download [OS-x-Nethunter](https://pixeldrain.com/u/Xo8vptqe)
 
