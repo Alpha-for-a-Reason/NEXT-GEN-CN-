@@ -4,7 +4,7 @@
 > ✨ Special thanks to our Community Developers- 𝙰 𝙽 𝙺 𝙸 𝚃 𝙰  &  𝙼 𝙾 𝙷 𝙰 𝙼 𝙼 𝙰 𝙳  ✨
 
 > [!WARNING]
-> This only for Ethical hackers and pentesters Don't use for unethical hacking and this OS/tool and this repository not responsible for that any illegal activity .
+> This only for Ethical hackers and pentesters Don't use for unethical hacking, our developers and this OS/tools and this repository not responsible for any illegal activity .
 
 ##
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/afadde59-acc1-4ec2-9816-d4a7703461e7" />
