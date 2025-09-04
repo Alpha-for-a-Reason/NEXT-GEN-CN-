@@ -7,7 +7,7 @@
 > This only for Ethical hackers and pentesters Don't use for unethical hacking, our developers and this OS/tools and this repository not responsible for any illegal activity .
 
 ##
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/afadde59-acc1-4ec2-9816-d4a7703461e7" />
+![Image](https://github.com/user-attachments/assets/cd80644b-bfd4-4a61-9671-e9af95c50518)
 ●ZIRCON ●HYPEROS1 ●MODDED ●NEXTGEN
 
 - CN NEXT GEN
