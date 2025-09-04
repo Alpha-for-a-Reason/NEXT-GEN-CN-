@@ -135,6 +135,72 @@ kali-tweaks
 - now select metapackages & install kali linux everything
 - The metapackages is around 34GB, you need high speed internet connection, So, grab a 🍺
 ```
+# For Wireless Att@¢k
+```
+## Best Wi-Fi adapter for wireless pentesting using your rooted Android phone with Kali NetHunter, you’ll want one that reliably supports monitor mode and packet injection, connects easily via OTG, and ideally offers dual-band (2.4 GHz & 5 GHz) support for broader testing capability.
+
+
+## Adapters & Chipsets
+
+- 1. Alfa AWUS036ACHM (MediaTek MT7612U, dual-band)
+
+Why it's solid: Kali-friendly, supports monitor mode and injection, great balance between performance and price (~$40) .
+
+Expert endorsement: GitHub discussions note the AWUS036ACHM is "a really good adapter for Linux … especially for Kali" and caution other options may require out-of-kernel drivers or are overpriced .
+
+
+- 2. Atheros and Ralink Chipset Favorites
+
+Atheros AR9271 (e.g. TP-Link TL-WN722N v1, Alfa AWUS036NEH)
+
+Well-known for solid Linux support, monitor mode, and injection .
+
+Note: Many TL-WN722N v2 units use an unsupported chipset—ensure it’s v1 .
+
+
+Ralink RT3070 (e.g. Panda PAU05, Alfa AWUS036NH)
+
+Compatible and portable; Panda PAU05 is low-profile and stealthy .
+
+
+
+- 3. Realtek RTL8812AU / RTL8814AU Adapters
+
+Dual-band adapters like Alfa AWUS036ACS, AWUS1900, ASUS USB-AC68 support 2.4 GHz and 5 GHz but may require manual driver installs .
+
+chipset overview: RTL8812AU/RTL8814AU offer strong performance; driver support may vary
+
+## Comparison Table
+
+Adapter / Chipset	Bands	Monitor Mode & Injection	Out-of-Box Support	Notes
+
+Alfa AWUS036ACHM (MT7612U)	2.4 + 5	Yes	Yes	Best balance of performance, price
+Atheros AR9271 (e.g. TL-WN722N v1)	2.4 GHz	Yes	Yes	Reliable and stable support
+Ralink RT3070 (Panda PAU05)	2.4 GHz	Yes	Yes	Ultra-portable, good for stealth setups
+Realtek RTL8812AU/8814AU	2.4 + 5	Yes	Driver install needed	High performance, wider band access
+
+Compatibility with Android + NetHunter
+
+Use a reliable OTG adapter to connect the Wi-Fi dongle to your Android device.
+
+Many adapters—even with good chipsets—may need custom drivers or modules added to your Android kernel to function fully .
+
+Configure adapter in Kali NetHunter for monitor, injection, and AP modes .
+
+
+Setup Tips for Android NetHunter
+
+1. Connect via OTG cable—ensure high-quality to avoid connection issues .
+
+
+2. Ensure compatibility: check adapter chipset and that your Android kernel supports or can be modified to support required drivers.
+
+
+3. Nethunter configure modes: monitor, packet injection, AP mode—very helpful .
+
+```
+
+
 ## Some of the prominent tools and their categories include:
 - **Information Gathering**:
 Tools for reconnaissance and gathering intelligence about target systems and networks. Examples include Nmap, Maltego, theHarvester, and Recon-ng.
