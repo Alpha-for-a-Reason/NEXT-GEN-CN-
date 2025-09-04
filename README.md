@@ -142,33 +142,28 @@ kali-tweaks
 
 ## Adapters & Chipsets
 
-- 1. Alfa AWUS036ACHM (MediaTek MT7612U, dual-band)
+- Alfa AWUS036ACHM (MediaTek MT7612U, dual-band)
 
-Why it's solid: Kali-friendly, supports monitor mode and injection, great balance between performance and price (~$40) .
-
-Expert endorsement: GitHub discussions note the AWUS036ACHM is "a really good adapter for Linux … especially for Kali" and caution other options may require out-of-kernel drivers or are overpriced .
+Kali-friendly, supports monitor mode and injection, great balance between performance.
 
 
-- 2. Atheros and Ralink Chipset Favorites
+- Atheros and Ralink Chipset Favorites
 
 Atheros AR9271 (e.g. TP-Link TL-WN722N v1, Alfa AWUS036NEH)
 
-Well-known for solid Linux support, monitor mode, and injection .
-
-Note: Many TL-WN722N v2 units use an unsupported chipset—ensure it’s v1 .
+For solid Linux support, monitor mode, and injection .
 
 
-Ralink RT3070 (e.g. Panda PAU05, Alfa AWUS036NH)
+- Ralink RT3070 (e.g. Panda PAU05, Alfa AWUS036NH)
 
 Compatible and portable; Panda PAU05 is low-profile and stealthy .
 
 
 
-- 3. Realtek RTL8812AU / RTL8814AU Adapters
+- Realtek RTL8812AU / RTL8814AU Adapters
 
 Dual-band adapters like Alfa AWUS036ACS, AWUS1900, ASUS USB-AC68 support 2.4 GHz and 5 GHz but may require manual driver installs .
 
-chipset overview: RTL8812AU/RTL8814AU offer strong performance; driver support may vary
 
 ## Comparison Table, Wi-Fi Adapters for Pentesting
 
@@ -179,7 +174,7 @@ chipset overview: RTL8812AU/RTL8814AU offer strong performance; driver support m
 | **Ralink RT3070 (Panda PAU05, etc.)** | 2.4 GHz | ✅ Yes | ✅ Yes | Compact and stealthy; great for travel kits |
 | **Realtek RTL8812AU / RTL8814AU** | 2.4 + 5 GHz | ✅ Yes | ❌ Needs driver | Very high performance with dual/quad antennas; more setup required |
 
-Compatibility with Android + NetHunter
+- Compatibility with Android + NetHunter
 
 Use a reliable OTG adapter to connect the Wi-Fi dongle to your Android device.
 
@@ -188,7 +183,7 @@ Many adapters—even with good chipsets—may need custom drivers or modules add
 Configure adapter in Kali NetHunter for monitor, injection, and AP modes .
 
 
-Setup Tips for Android NetHunter
+- Setup Tips for Android NetHunter
 
 1. Connect via OTG cable—ensure high-quality to avoid connection issues .
 
