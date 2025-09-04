@@ -234,9 +234,7 @@ Tools to assist with social engineering attacks, such as the Social Engineering 
 ![Image](https://github.com/user-attachments/assets/243c44a9-b433-4e2f-adb6-5b8c54318f9c)
 
 
-# ⚠️ Ethical Use Only
-
-[![Ethical Use Only](https://img.shields.io/badge/⚠️-Ethical%20Use%20Only-red?style=for-the-badge&logo=github)](#)
+# [![Ethical Use Only](https://img.shields.io/badge/⚠️-Ethical%20Use%20Only-red?style=for-the-badge&logo=github)](#)
 
 ---
 
@@ -254,7 +252,7 @@ Tools to assist with social engineering attacks, such as the Social Engineering 
 >
 > By using this repository, you agree that:
 > - You are responsible for your own actions.  
-> - The repository owner(s) and contributors are **not liable** for any misuse of the tools.  
+> - The repository owner(𝙰 𝙻 𝙿 𝙷 𝙰) and contributors ( 𝘼 𝙉 𝙆 𝙄 𝙏 𝘼  &  𝙼 𝙾 𝙷 𝙰 𝙼 𝙼 𝙰 𝙳) are **not liable** for any misuse of the tools.  
 > - You will comply with all applicable **laws and regulations** in your jurisdiction.  
 >
 > ✅ Always hack **ethically**. Use these tools only on systems you own or have explicit permission to test.
