@@ -234,25 +234,41 @@ Tools to assist with social engineering attacks, such as the Social Engineering 
 ![Image](https://github.com/user-attachments/assets/243c44a9-b433-4e2f-adb6-5b8c54318f9c)
 
 
-#  😏   [![Ethical Use Only](https://img.shields.io/badge/⚠️-Ethical%20Use%20Only-red?style=for-the-badge&logo=github)](#)
+# ⚠️ Ethical Use Only
+
+[![Ethical Use Only](https://img.shields.io/badge/⚠️-Ethical%20Use%20Only-red?style=for-the-badge&logo=github)](#)
 
 ---
 
-> ⚠️ **Legal Disclaimer**
->
-> This repository and the tools referenced here are provided **strictly for educational and ethical purposes only**.  
-> They are intended to be used by:
-> - Security researchers  
-> - Penetration testers  
-> - Students learning cybersecurity  
-> - System administrators testing their own systems  
->
-> **Do not use these tools for any malicious or unauthorized activity.**  
-> Unauthorized access to networks, systems, or data is **illegal** and may result in **criminal charges**.  
->
-> By using this repository, you agree that:
-> - You are responsible for your own actions.  
-> - The repository owner(𝙰 𝙻 𝙿 𝙷 𝙰) and contributors ( 𝘼 𝙉 𝙆 𝙄 𝙏 𝘼  &  𝙼 𝙾 𝙷 𝙰 𝙼 𝙼 𝙰 𝙳) are **not liable** for any misuse of the tools.  
-> - You will comply with all applicable **laws and regulations** in your jurisdiction.  
->
-> ✅ Always hack **ethically**. Use these tools only on systems you own or have explicit permission to test.
+## ⚖️ Proprietary + Ethical Use License
+
+Copyright (c) 2025 [XDA- 𝙰 𝙻 𝙿 𝙷 𝙰  Community]
+
+This repository and its contents are **proprietary**.  
+Unauthorized copying, modification, distribution, or use of this,  
+via any medium, is strictly prohibited unless explicit written permission  
+is granted by the author. (Only Community member can use this)
+
+---
+
+## ✅ Conditions of Use
+If you are granted permission to use this repository or its contents, you agree that:
+- You may only use it for **educational, research, or authorized security testing purposes**.  
+- You may not use it for:
+  - Unauthorized access to any android device, !OS, computer systems or networks  
+  - Illegal surveillance or data collection  
+  - Exploiting vulnerabilities without consent  
+  - Any malicious, unethical, or unlawful activity  
+
+---
+
+## ⚠️ Liability
+- The repository owner(s), contributors, and maintainers are **not responsible or liable** for any misuse.  
+- By using this repository (with permission), you agree that you are **solely responsible** for your actions and compliance with all applicable laws.  
+
+---
+
+## 📌 Reminder
+⚡ Always hack **ethically**.  
+⚡ Always have **permission**.  
+⚡ Always stay **legal**.
