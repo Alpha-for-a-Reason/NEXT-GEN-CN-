@@ -136,7 +136,7 @@ kali-tweaks
 - The metapackages is around 34GB, you need high speed internet connection, So, grab a 🍺
 ```
 # For Wireless Att@¢k
-```
+
 ## Best Wi-Fi adapter for wireless pentesting using your rooted Android phone with Kali NetHunter, you’ll want one that reliably supports monitor mode and packet injection, connects easily via OTG, and ideally offers dual-band (2.4 GHz & 5 GHz) support for broader testing capability.
 
 
@@ -170,14 +170,14 @@ Dual-band adapters like Alfa AWUS036ACS, AWUS1900, ASUS USB-AC68 support 2.4 GHz
 
 chipset overview: RTL8812AU/RTL8814AU offer strong performance; driver support may vary
 
-## Comparison Table
+## Comparison Table, Wi-Fi Adapters for Pentesting
 
-Adapter / Chipset	Bands	Monitor Mode & Injection	Out-of-Box Support	Notes
-
-Alfa AWUS036ACHM (MT7612U)	2.4 + 5	Yes	Yes	Best balance of performance, price
-Atheros AR9271 (e.g. TL-WN722N v1)	2.4 GHz	Yes	Yes	Reliable and stable support
-Ralink RT3070 (Panda PAU05)	2.4 GHz	Yes	Yes	Ultra-portable, good for stealth setups
-Realtek RTL8812AU/8814AU	2.4 + 5	Yes	Driver install needed	High performance, wider band access
+| **Adapter / Chipset** | **Bands** | **Monitor Mode & Injection** | **Out-of-Box Support** | **Notes** |
+|------------------------|-----------|------------------------------|-------------------------|-----------|
+| **Alfa AWUS036ACHM (MT7612U)** | 2.4 + 5 GHz | ✅ Yes | ✅ Yes | Best balance of performance and price; works well on NetHunter |
+| **Atheros AR9271 (e.g., TP-Link TL-WN722N v1)** | 2.4 GHz | ✅ Yes | ✅ Yes | Extremely reliable & stable; only older v1 supports this, newer versions don’t |
+| **Ralink RT3070 (Panda PAU05, etc.)** | 2.4 GHz | ✅ Yes | ✅ Yes | Compact and stealthy; great for travel kits |
+| **Realtek RTL8812AU / RTL8814AU** | 2.4 + 5 GHz | ✅ Yes | ❌ Needs driver | Very high performance with dual/quad antennas; more setup required |
 
 Compatibility with Android + NetHunter
 
@@ -198,7 +198,7 @@ Setup Tips for Android NetHunter
 
 3. Nethunter configure modes: monitor, packet injection, AP mode—very helpful .
 
-```
+
 
 
 ## Some of the prominent tools and their categories include:
