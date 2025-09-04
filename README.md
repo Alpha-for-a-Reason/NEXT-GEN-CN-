@@ -236,7 +236,7 @@ Tools to assist with social engineering attacks, such as the Social Engineering 
 ![Image](https://github.com/user-attachments/assets/243c44a9-b433-4e2f-adb6-5b8c54318f9c)
 
 
-# ⚠️ Ethical Use Only
+# 😏
 
 [![Ethical Use Only](https://img.shields.io/badge/⚠️-Ethical%20Use%20Only-red?style=for-the-badge&logo=github)](#)
 
