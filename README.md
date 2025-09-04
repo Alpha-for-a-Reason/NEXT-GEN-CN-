@@ -1,4 +1,4 @@
-# M0V€ 0S-x-Nethunter 💀 THE NEXT GEN V1 by
+# M0V€ 0$-x-Nethunter 💀 THE NEXT GEN V1 ROM
 ## 💻 Developers:   𝙰 𝙻 𝙿 𝙷 𝙰,   𝘼 𝙉 𝙆 𝙄 𝙏 𝘼  &  ᴍ ᴏ ʜ ᴀ ᴍ ᴍ ᴀ ᴅ
 ![Image](https://github.com/user-attachments/assets/2b213476-a2ba-4509-89f3-aade2c680d2e)
 > ✨ Special thanks to our Community Developers- 𝙰 𝙽 𝙺 𝙸 𝚃 𝙰  &  𝙼 𝙾 𝙷 𝙰 𝙼 𝙼 𝙰 𝙳  ✨
